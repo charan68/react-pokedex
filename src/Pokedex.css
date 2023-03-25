@@ -1,9 +1,12 @@
-
+.Pokedex{
+  text-align: center;
+}
 .Pokedex-cards{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    margin-bottom: 3em;
 }
 
 .Pokedex-winner{
